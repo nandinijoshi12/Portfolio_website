@@ -15,6 +15,7 @@
           <div><p class="text-white text-xl">Digital</p></div>
           <div><p class="text-white text-xl">Wall-Art</p></div>
           <div><p class="text-white text-xl">Clay-Collectibles</p></div>
+          <div><p class="text-white text-xl">Contact</p></div>
         </div></div>
 </template>
 

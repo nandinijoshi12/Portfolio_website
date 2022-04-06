@@ -1,6 +1,5 @@
 <template>
   <div>
-    <div>
       <div class="bg-black">
         <!-- start of nav -->
         <Nav/>
@@ -24,7 +23,6 @@
         <Contact/>        
         <!-- end of contact -->
       </div>
-    </div>
   </div>
 </template>
 
